@@ -14,9 +14,9 @@
   
 - Add constraints:
   
-    - UseDepartmentID as a primary key in the Departments table.
+    - Use DepartmentID as a primary key in the Departments table.
       
-    - UseEmployeeID as aprimary key in the Employees table.
+    - Use EmployeeID as aprimary key in the Employees table.
       
     - Establish a foreign key relationship between Employees.DepartmentID and Departments.DepartmentID.
 
